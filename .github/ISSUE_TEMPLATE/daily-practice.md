@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 # 📊 Today's Theme
-**Main Theme**: [Arrays/Strings/Loops/Math/Conditionals/I-O/etc.]
+**Main Theme**: [Arrays/Strings/Loops/Maths/Conditionals/I-O/etc.]
 
 # 📚 3 Problems Planned
 - [ ] **Problem 1**: 
@@ -15,6 +15,6 @@ assignees: ''
 - [ ] **Problem 3**: 
 
 # 📂 File to Create
-- [ ] `daily-practice/day-XXX_YYYY-MM-DD.md` - Complete today's practice log
+- [ ] `daily-practice/day-XXX_DD-MM-YYYY.md` - Complete today's practice log
 - [ ] Update `README.md` progress counters
 - [ ] Commit and push changes
