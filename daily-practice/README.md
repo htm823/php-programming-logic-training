@@ -8,14 +8,6 @@ This folder contains daily learning records with problem descriptions and PHP co
 - Record PHP code solutions and learning insights
 - Maintain consistent learning habits
 
-## 📁 File Structure
-Each daily file follows the naming convention: `day-XXX_YYYY-MM-DD.md`
-
-### Examples:
-- `day-001_2025-07-20.md` - First day of practice
-- `day-007_2025-07-27.md` - End of first week
-- `day-030_2025-08-20.md` - One month milestone
-
 ## 📝 File Content Structure
 Each daily file includes:
 
@@ -25,39 +17,31 @@ Each daily file includes:
 - Main topic focus for the day
 
 ### 🧩 Three Problems
-1. **Study Problem** - Learn new concepts with detailed explanation
-2. **Practice Problem** - Reinforce understanding with similar challenges  
-3. **Challenge Problem** - Test independent problem-solving skills
-
-### 📂 Each Problem Contains
-- Problem category and source
-- Understanding percentage
+Each problem contains:
 - Problem description
 - PHP code solution
+- Understanding percentage
 - Learning notes and reflections
 
 ### 📝 Daily Reflection
-- Key insights learned
+- Key insights learnt
 - Tomorrow's focus areas
-- New PHP functions discovered
 - Overall session notes
 
-## 🎯 Learning Goals
-- Solve 3 problems daily consistently
-- Gradually increase understanding levels
-- Build comprehensive PHP problem-solving skills
-- Develop independent coding abilities
+## 🎯 Learning Philosophy
+This folder focuses on **steady foundation building** and **knowledge accumulation**:
 
-## 📈 Progress Tracking
-- Daily understanding percentages
-- Problem difficulty progression
-- Skill development over time
-- Consistency in practice routine
+- **Document discoveries**: Every new function or approach gets recorded
+- **Build solid basics**: Focus on understanding fundamental concepts thoroughly
+- **Connect concepts**: Link related topics and build comprehensive understanding
+- **Maintain consistency**: Prioritise daily practice over perfect solutions
 
-## 🔗 Related Files
-- Main progress tracked in [README.md](../README.md)
-- Concept learning documented in [daily-log/](../daily-log/)
-- Templates available in [TEMPLATE.md](./TEMPLATE.md)
+## 📈 Knowledge Building Strategy
+1. **Learn** new concepts during daily practice
+2. **Document** functions and patterns immediately
+3. **Focus on fundamentals** and consistent understanding
+4. **Connect** new learning to previous knowledge
+5. **Review** and update files when encountering the same concepts
 
 ---
 
