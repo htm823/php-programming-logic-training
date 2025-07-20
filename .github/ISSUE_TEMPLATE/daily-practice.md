@@ -1,12 +1,12 @@
 ---
 name: Daily Practice Task
 about: Track daily PHP programming practice session
-title: 'Day [X] - [DD-07-2025] PHP Practice'
+title: 'Day XXX_DD-MM-2025'
 labels: daily-practice, in-progress
 assignees: ''
 ---
 
-# Day [X] - [DD-07-2025] PHP Practice Session
+# Day XXX_DD-MM-2025
 
 ## 📊 Today's Theme
 **Main Theme**: [Arrays/Strings/Loops/Math/Conditionals/I-O/etc.]
@@ -23,7 +23,7 @@ assignees: ''
 ## 📝 Daily Summary
 **Overall Understanding**: [X]%
 **What I learned**: 
-**Tomorrow's focus**: 
+**Tomorrow's focus**: [Arrays/Strings/Loops/Math/Conditionals/I-O/etc.]
 
 ---
 
