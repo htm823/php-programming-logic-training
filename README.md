@@ -24,15 +24,14 @@ Daily practice log using Claude AI-generated problems to develop PHP programming
 php-programming-logic-training/
 ├── README.md                    # This file
 ├── daily-practice/             # Daily learning logs + code solutions
-│   ├── day-001_21-01-2025.md
-│   ├── day-002_22-01-2025.md
-│   ├── day-003_23-01-2025.md
+│   ├── day-001_20-07-2025.md
+│   ├── day-002_21-07-2025.md
+│   ├── day-003_22-07-2025.md
 │   └── ...
 └── daily-log/                  # Functions learnt, insights, and alternative approaches
-    ├── arrays.md
-    ├── strings.md
-    ├── loops.md
-    ├── maths-operations.md
+    ├── day-001_20-07-2025.md
+│   ├── day-002_21-07-2025.md
+│   ├── day-003_22-07-2025.md
     └── ...
 ```
 
